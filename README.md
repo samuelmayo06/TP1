@@ -44,7 +44,7 @@
 - Types d'entreprises : Studios de création audiovisuel, diffuseurs, agence de marketing
 - Exemple d'entreprise : Momentumm, agence de production vidéo.
 
-![Nom de l'entreprise](entreprise.jpg)
+![Momentumm](momentumm.img)
 
 (source de l'image : ...)
 
