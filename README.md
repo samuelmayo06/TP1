@@ -46,19 +46,22 @@
 
 ![Momentumm](momentumm.webp)
 
-(source de l'image : ...)
+[source de l'image : ...](https://www.momentumm.co/contactez-nous)
 
-- Types de produits et de services : ...
-- Étapes de production : ...
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Types de produits et de services : Contenu audiovisuel
+- Étapes de production : Idéation / recherche — définir l'idée, le concept, la clientèle
+Préproduction — planification, scénarisation, storyboard, moodboard
+Production — réalisation, création, captation
+Postproduction — montage, retouches, optimisation, livraison
+- Type d'emploi visé : Soit caméraman/cadreur ou monteur vidéo
+- Étapes pour obtenir cet emploi : Pour devenir cadreur/caméraman, il faudra que je suive une formation de vidéographie ou que j'aille un bon porfolio avec des projets de vidéo ou de cinématographie. Sinon, pour monteur, il faut juste que j'arrive à maîtriser les logiciels de montage et que je construise mon porfolio à fur et à mesure que je m'améliore et que je me fasse des clients.
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Je suis un cinématographe créatif avec un penchant pour le montage.
+- Ce qui m'a surpris : Que je tourne beaucoup plus alentour du côté créatif de ces domaines, car en étant plus jeune j'avais jamais été un enfant très attiré par les choses qui requéraient de la créativité.  
+- Ma force principale et la faiblesse à travailler : Ma force principale serait d'avoir l'oeil pour le cadrage de vidéos et le désir de créer des bonnes vidéos en post-production. Ma plus grande faiblesse serait de développer mon côté social afin de trouver de la clientèle.
+- Mon action d'ici la fin de la session : Finir de faire le montage de la vidéo que j'ai pris lors d'une randonnée en octobre avec mes amis.
 
 ## Ma capsule
 
