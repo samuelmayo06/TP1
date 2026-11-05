@@ -65,4 +65,4 @@ Postproduction — montage, retouches, optimisation, livraison
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon interface OBS](OBS.PNG.png)
